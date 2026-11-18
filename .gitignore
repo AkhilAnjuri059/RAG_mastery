@@ -1,0 +1,18 @@
+#Python virtual environments
+.venv
+
+#all the text files
+*.txt
+
+#Python cache
+_pycache_/
+*.pyc
+
+
+
+#stages
+A = Added to Git's index.
+
+U = Untracked file.
+
+M = Modified file.
